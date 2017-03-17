@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/selector_lv_item">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/tvName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ITG"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/tvSmall"
+                android:text="@string/masothue" />
+
+            <TextView
+                android:id="@+id/tvCode"
+                style="@style/tvSmallColor"
+                android:layout_marginLeft="5dp"
+                android:text="" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/tvSmall"
+                android:text="@string/diachi" />
+
+            <TextView
+                android:id="@+id/tvCity"
+                style="@style/tvSmallColor"
+                android:layout_marginLeft="5dp"
+                android:text="" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/tvSmall"
+                android:text="@string/ngaythanhlap" />
+
+            <TextView
+                android:id="@+id/tvDate"
+                style="@style/tvSmallColor"
+                android:layout_marginLeft="5dp"
+                android:text="09-01-2017" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <include layout="@layout/line"></include>
+</RelativeLayout>

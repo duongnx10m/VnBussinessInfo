@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:checked="true"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/trangchu" />
+        <item
+            android:id="@+id/nav_city"
+            android:icon="@drawable/ic_business_black_24dp"
+            android:title="@string/tinhthanh" />
+        <item
+            android:id="@+id/nav_business"
+            android:icon="@drawable/ic_class_black_24dp"
+            android:title="@string/nganhnghe" />
+        <item
+            android:id="@+id/nav_mst"
+            android:icon="@drawable/ic_find_mst_24dp"
+            android:title="@string/tramasothue" />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/ic_error_outline_black_24dp"
+            android:title="@string/dieukhoang" />
+    </group>
+
+
+</menu>

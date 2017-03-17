@@ -1,0 +1,46 @@
+<resources>
+    <string name="interstitial_ad_unit_id">ca-app-pub-7276278225666027/4810091999</string>
+    <string name="app_name">TT CôngTy</string>
+    <string name="doanhnghiep">Thông Tin Doanh Nghiệp</string>
+    <string name="vn">\@Việt Nam 2017</string>
+    <string name="trangchu">Trang Chủ</string>
+    <string name="nganhnghe">Ngành Nghề</string>
+    <string name="tinhthanh">Tỉnh/Thành Phố</string>
+    <string name="quanhuyen">Quận Huyện</string>
+    <string name="dieukhoang">Điều Khoảng</string>
+
+    <string name="masothue">Mã số thuế:</string>
+    <string name="tinhthanhpho">Tỉnh/Thành phố:</string>
+    <string name="ngaythanhlap">Ngày thành lập:</string>
+    <string name="tukhoa">Tên, mã số thuế...</string>
+    <string name="canuoc">Cả nước</string>
+    <string name="tatca">Tất Cả</string>
+    <string name="diachi">Địa Chỉ:</string>
+    <string name="tengiaodich">Tên giao dịch:</string>
+    <string name="noidangkyquanly">Nơi đăng ký quản lý:</string>
+    <string name="chusohuu">Chủ sở hữu:</string>
+    <string name="nganhnghechinh">Ngành nghề chính:</string>
+    <string name="congtymoi">Công ty mới</string>
+    <string name="soluongdoanhnghiep">Số Lượng Công Ty</string>
+    <string name="soluong">Số Lượng</string>
+    <string name="tramasothue">Tra Cứu Mã Số Thuế</string>
+    <string name="mst_dn">Tra Mã Số Thuế Doanh Nghiệp</string>
+    <string name="mst_cn">Tra Mã Số Thuế Cá Nhân</string>
+    <string name="chitiet">Chi Tiết</string>
+    <string name="web_link"><a href="https://thongtindoanhnghiep.co">thongtindoanhnghiep.co</a></string>
+    <string name="email"><a href="duongnguyenxuan10m@gmail.com">Gửi Phản Hồi</a></string>
+    <string name="thongtinchitiet">Thông tin chi tiết: </string>
+    <string name="info">TTDN đảm bảo rằng, mọi thông tin và dữ liệu liên quan tới các sản phẩm dịch vụ, tiện ích hoặc các nội dung khác (sau đây gọi là “Thông tin”) tại app, được cung cấp với mức độ tin cậy cao nhất, tuy nhiên các thông tin chỉ có giá trị tham khảo đối với người sử dụng. Và như vậy, TTDN không phải chịu bất cứ trách nhiệm gì đối với bất kỳ ai liên quan đến việc sử dụng các thông tin có trên App.</string>
+    <string name="share">Chia Sẻ</string>
+    <string name="rate">Đánh Giá</string>
+    <string name="more_app">App Khác</string>
+    <string name="view_google_map">Xem trên bản đồ</string>
+    <string name="copy_mst">Sao chép mã số thuế</string>
+    <string name="no_internet">Thiết bị của bạn gặp lỗi kết nối internet!</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="copy_clipboard">Đã sao chép %s vào Clipboard!</string>
+    <string name="action_settings">Settings</string>
+</resources>
